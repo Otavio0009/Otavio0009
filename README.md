@@ -5,7 +5,7 @@
 
 🔅 Olá, me chamo Otávio!
 
-💬 Sou universitário e estou Cursando Analize e Desenvolvimento de Sistemas.
+💬 Sou universitário e estou Cursando Analize e Desenvolvimento de Sistemas na Centro Universitário de Patos(UNIFP)/PB.
 
 📫[Acesse o meu Linkedin](https://www.linkedin.com/in/ot%C3%A1vio-carmo-aa1135251/)
 ------------------------------------
