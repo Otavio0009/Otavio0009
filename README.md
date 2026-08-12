@@ -40,5 +40,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no Centro Universitário
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Otavio0009&show_icons=true&theme=radial" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=arthurgomes1k&theme=radical" height="150" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Otavio0009&layout=compact&theme=radial" height="150" />
 </div>
