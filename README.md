@@ -2,7 +2,7 @@
 
 Estudante de **Análise e Desenvolvimento de Sistemas** no Centro Universitário de Patos (UNIFIP/PB). Apaixonado por tecnologia e focado em desenvolvimento de software Fullstack.
 
-📫 **Vamos nos conectar?** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ot%C3%A1vio-carmo-aa1135251/)
+📫 **Vamos nos conectar?**    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ot%C3%A1vio-carmo-aa1135251/)
 
 ---
 
