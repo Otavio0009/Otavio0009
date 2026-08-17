@@ -4,7 +4,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no Centro Universitário
 
 📫 **Vamos nos conectar?**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ot%C3%A1vio-carmo-aa1135251/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/otavio_neto.09/?hl=pt-br)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/otavio_neto.09/?hl=pt-br/)
 
 ---
 
