@@ -1,8 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Ot%C3%A1vio!+👋;Desenvolvedor+Fullstack+🚀;Estudante+de+ADS+no+UNIFIP" alt="Typing SVG" />
-</div>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Coding GIF" />
 
-  <p>Estudante de <b>Análise e Desenvolvimento de Sistemas</b> no Centro Universitário de Patos (UNIFIP/PB)</p>
+  <br /><br />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Futuro+Analista+e+Desenvolvedor+de+Sistemas;Desenvolvedor+Java+%26+Python;Explorando+Cloud+%26+APIs+REST" alt="Typing SVG" />
+
+  <br />
+
+  <h1>🔅 Olá, eu sou o Otávio! 👋</h1>
+  <p><b>Desenvolvedor Fullstack 🚀 | Estudante de ADS no UNIFIP</b></p>
 
   <p>
     <a href="https://www.linkedin.com/in/ot%C3%A1vio-carmo-aa1135251/" target="_blank">
