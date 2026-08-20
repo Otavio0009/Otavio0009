@@ -60,10 +60,3 @@
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Otavio0009&theme=tokyonight&hide_border=true" height="150" alt="Streak" />
 </div>
-
----
-
-<div align="center">
-  <sub>Gráfico de Atividade de Contribuições</sub><br /><br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Otavio0009&theme=tokyo-night&hide_border=true" alt="Gráfico de Atividade" />
-</div>
