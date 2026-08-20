@@ -67,9 +67,3 @@
   <sub>Gráfico de Atividade de Contribuições</sub><br /><br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Otavio0009&theme=tokyo-night&hide_border=true" alt="Gráfico de Atividade" />
 </div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Otavio0009&color=61DAFB&style=flat-square&label=Visitas+no+Perfil" alt="Contador de Visitas" />
-</div>
