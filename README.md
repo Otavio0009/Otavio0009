@@ -7,7 +7,7 @@
 
   <br />
 
-  <h1>🔅 Olá, eu sou o Otávio! 👋</h1>
+  <h1>🔅 Olá, eu sou Otávio! 👋</h1>
   <p><b>Desenvolvedor Fullstack 🚀 | Estudante de ADS no UNIFIP</b></p>
 
   <p>
