@@ -51,8 +51,14 @@
 
 ## 📌 Projetos em destaque
 
-<!-- Troque pelos seus repositórios reais -->
-- 🧮 [**Calculadora React**](https://github.com/Otavio0009/CalculadoraReact) — calculadora feita com React, Vite e styled-components.
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| 💰 [**SoloFinassas**](https://github.com/Otavio0009/SoloFinassas) | Aplicação para controle de finanças pessoais. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| 🧮 [**CalculadoraReact**](https://github.com/Otavio0009/CalculadoraReact) | Calculadora com operações encadeadas, porcentagem, inversão de sinal e tratamento de erros. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white) |
+| 🌐 [**PortifolioProfissional**](https://github.com/Otavio0009/PortifolioProfissional) | Meu portfólio profissional com projetos e contatos. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| 🅰️ [**AngulaDio**](https://github.com/Otavio0009/AngulaDio) | Estudos e projetos práticos com Angular. | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) |
+| 🔷 [**TypeScript-Dio**](https://github.com/Otavio0009/TypeScript-Dio) | Exercícios e projetos para praticar TypeScript. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| 📱 [**Mobile**](https://github.com/Otavio0009/Mobile) | Projetos de desenvolvimento mobile. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 ---
 
